@@ -5,7 +5,6 @@ var emojiDictionary = {
   "😀": "Grinning Face",
   "😅": " Grinning Face with Sweat",
 
-  "🥵": "Overheated Face",
   "💲": "Paisa Paisa",
   "😂": "LOL",
   "🤑": "Rich"
