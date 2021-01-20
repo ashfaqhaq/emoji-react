@@ -1,2 +1,2 @@
-# emoji-react
+# emojis-interpreter
 Created with CodeSandbox
