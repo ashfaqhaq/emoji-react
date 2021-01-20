@@ -33,7 +33,9 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>🙂 Emoticons 🙃</h1>
+      <span role="img" aria-label="emoticons" className="heading">
+        🙂 Emoticons 🙃
+      </span>
       <input
         placeholder="Enter Emoji  to know the meaning "
         onChange={emojiInputHandler}
